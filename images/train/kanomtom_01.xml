@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06_ขนมต้มใบกะพ้อ V.Eng</folder>
+	<filename>kanomtom_01.jpg</filename>
+	<path>C:/Users/Ritcabcuhi/Downloads/06_ขนมต้มใบกะพ้อ-20190202T161023Z-001/06_ขนมต้มใบกะพ้อ V.Eng/01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kanomtom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>31</ymin>
+			<xmax>700</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>08_ขนมไข่</folder>
+	<filename>kanomkai_10.jpg</filename>
+	<path>C:/Users/Ritcabcuhi/Downloads/08_ขนมไข่-20190205T102116Z-001/08_ขนมไข่/10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kanomkai</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>1</ymin>
+			<xmax>625</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

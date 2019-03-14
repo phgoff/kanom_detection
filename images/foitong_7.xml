@@ -1,0 +1,26 @@
+<annotation>
+	<folder>02_foitong</folder>
+	<filename>foitong_7.jpg</filename>
+	<path>C:\Users\mous1\Desktop\image\02_foitong\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foitong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>10</ymin>
+			<xmax>226</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

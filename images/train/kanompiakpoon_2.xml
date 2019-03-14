@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05_เปียกปูน</folder>
+	<filename>kanompiakpoon_2.jpg</filename>
+	<path>C:/Users/Ritcabcuhi/Downloads/05_เปียกปูน-20190202T161016Z-001/05_เปียกปูน/2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kanompiakpoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>59</ymin>
+			<xmax>242</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>07_โอ้เอ๋ว</folder>
+	<filename>Oeo_22.jpg</filename>
+	<path>C:/Users/Ritcabcuhi/Downloads/07_โอ้เอ๋ว/22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O-eo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>58</ymin>
+			<xmax>168</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
